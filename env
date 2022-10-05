@@ -1,0 +1,5 @@
+MONGO_URI = mongodb://localhost:27017/cloudinary
+
+cloud_name: CLOUDINARY CLOUD NAME
+api_key: CLOUDINARY API KEY
+api_secret: cLOUDINARY API SECRET
